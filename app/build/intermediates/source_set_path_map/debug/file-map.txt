@@ -1,0 +1,37 @@
+com.example.housinite.app-fragment-1.3.6-0 C:\Users\ADMIN TX\.gradle\caches\transforms-3\06ebf6aecf8565c635c6fc6b61435e5d\transformed\fragment-1.3.6\res
+com.example.housinite.app-lifecycle-livedata-core-2.5.1-1 C:\Users\ADMIN TX\.gradle\caches\transforms-3\0a09d4b8f50fb456a574c1f2d156a77e\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.housinite.app-savedstate-1.2.0-2 C:\Users\ADMIN TX\.gradle\caches\transforms-3\0eee75933f78848552141f7085e98b5d\transformed\savedstate-1.2.0\res
+com.example.housinite.app-material-1.9.0-3 C:\Users\ADMIN TX\.gradle\caches\transforms-3\16528c5bdb72008f02eca755e0dca335\transformed\material-1.9.0\res
+com.example.housinite.app-cardview-1.0.0-4 C:\Users\ADMIN TX\.gradle\caches\transforms-3\165cd047ae287a7aee100c3c17671fbe\transformed\cardview-1.0.0\res
+com.example.housinite.app-startup-runtime-1.1.1-5 C:\Users\ADMIN TX\.gradle\caches\transforms-3\179abacdb889ded70f178d84b0aa3e9c\transformed\startup-runtime-1.1.1\res
+com.example.housinite.app-appcompat-1.6.1-6 C:\Users\ADMIN TX\.gradle\caches\transforms-3\1e18dc70af69f84eb45fe5c435e9f46a\transformed\appcompat-1.6.1\res
+com.example.housinite.app-core-1.12.0-alpha04-7 C:\Users\ADMIN TX\.gradle\caches\transforms-3\2456906b4032229ecaf9728e7a3cfc61\transformed\core-1.12.0-alpha04\res
+com.example.housinite.app-appcompat-resources-1.6.1-8 C:\Users\ADMIN TX\.gradle\caches\transforms-3\24b1529fc942d7519741efe0b576fdbc\transformed\appcompat-resources-1.6.1\res
+com.example.housinite.app-glide-4.15.1-9 C:\Users\ADMIN TX\.gradle\caches\transforms-3\25fdaa0657d5a78fd86bf40c91c33082\transformed\glide-4.15.1\res
+com.example.housinite.app-lifecycle-viewmodel-savedstate-2.5.1-10 C:\Users\ADMIN TX\.gradle\caches\transforms-3\3b17995f0eb53d554a8f696201bfbf34\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.housinite.app-emoji2-views-helper-1.2.0-11 C:\Users\ADMIN TX\.gradle\caches\transforms-3\4113339b7a37cb97edba94a4a97fad04\transformed\emoji2-views-helper-1.2.0\res
+com.example.housinite.app-transition-1.2.0-12 C:\Users\ADMIN TX\.gradle\caches\transforms-3\615bc7a3a04f80b848aa038973485c89\transformed\transition-1.2.0\res
+com.example.housinite.app-firebase-common-20.3.2-13 C:\Users\ADMIN TX\.gradle\caches\transforms-3\707b5bbfdff6b5077072091bebb1cdd1\transformed\firebase-common-20.3.2\res
+com.example.housinite.app-drawerlayout-1.1.1-14 C:\Users\ADMIN TX\.gradle\caches\transforms-3\78db962867f2ab19937ee63dd33aea7c\transformed\drawerlayout-1.1.1\res
+com.example.housinite.app-play-services-base-18.1.0-15 C:\Users\ADMIN TX\.gradle\caches\transforms-3\7f91c31d44f53a29849e5f2ec3b1dd6e\transformed\play-services-base-18.1.0\res
+com.example.housinite.app-coordinatorlayout-1.1.0-16 C:\Users\ADMIN TX\.gradle\caches\transforms-3\80c5ea87f5fb4c576e84ed0be1f53b52\transformed\coordinatorlayout-1.1.0\res
+com.example.housinite.app-browser-1.4.0-17 C:\Users\ADMIN TX\.gradle\caches\transforms-3\8ab011c36955186a85d6f1b84efa8960\transformed\browser-1.4.0\res
+com.example.housinite.app-activity-1.6.0-18 C:\Users\ADMIN TX\.gradle\caches\transforms-3\9425cf4156cb7d3a6be607a4e7d1c68a\transformed\activity-1.6.0\res
+com.example.housinite.app-play-services-basement-18.1.0-19 C:\Users\ADMIN TX\.gradle\caches\transforms-3\a21891efe86ba225e872e0c81c3773bd\transformed\play-services-basement-18.1.0\res
+com.example.housinite.app-recyclerview-1.1.0-20 C:\Users\ADMIN TX\.gradle\caches\transforms-3\aa82c690ef1162a3c020d82dbebf89ab\transformed\recyclerview-1.1.0\res
+com.example.housinite.app-viewpager2-1.0.0-21 C:\Users\ADMIN TX\.gradle\caches\transforms-3\b01a2a559af4cd1ee1443a1e5296fa43\transformed\viewpager2-1.0.0\res
+com.example.housinite.app-lifecycle-viewmodel-2.5.1-22 C:\Users\ADMIN TX\.gradle\caches\transforms-3\b0fb58a40d61a23e9257f5ff4ada73f1\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.housinite.app-lifecycle-runtime-2.5.1-23 C:\Users\ADMIN TX\.gradle\caches\transforms-3\d64d47dcd93611d803db16cc8dff5d63\transformed\lifecycle-runtime-2.5.1\res
+com.example.housinite.app-constraintlayout-2.1.4-24 C:\Users\ADMIN TX\.gradle\caches\transforms-3\d725341654de40a49a32c6f0021fdc4b\transformed\constraintlayout-2.1.4\res
+com.example.housinite.app-emoji2-1.2.0-25 C:\Users\ADMIN TX\.gradle\caches\transforms-3\f3a4c9ff9427cc107407775ace59970d\transformed\emoji2-1.2.0\res
+com.example.housinite.app-annotation-experimental-1.3.0-26 C:\Users\ADMIN TX\.gradle\caches\transforms-3\f4aa05fbc60833a34ee1867cab3399f3\transformed\annotation-experimental-1.3.0\res
+com.example.housinite.app-lifecycle-process-2.4.1-27 C:\Users\ADMIN TX\.gradle\caches\transforms-3\f4fbc61b754e058dce6debca02bbae1f\transformed\lifecycle-process-2.4.1\res
+com.example.housinite.app-core-ktx-1.12.0-alpha04-28 C:\Users\ADMIN TX\.gradle\caches\transforms-3\fc9d1fd138b058e42b06838270a8eed4\transformed\core-ktx-1.12.0-alpha04\res
+com.example.housinite.app-google-services-29 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\generated\res\google-services\debug
+com.example.housinite.app-pngs-30 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\generated\res\pngs\debug
+com.example.housinite.app-resValues-31 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\generated\res\resValues\debug
+com.example.housinite.app-packageDebugResources-32 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.housinite.app-packageDebugResources-33 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.housinite.app-merged_res-34 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\build\intermediates\merged_res\debug
+com.example.housinite.app-debug-35 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\src\debug\res
+com.example.housinite.app-main-36 C:\Users\ADMIN TX\Desktop\Android Studio\New folder\Updated Housinite-main\app\src\main\res

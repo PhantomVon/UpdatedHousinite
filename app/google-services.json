@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99875945530",
+    "firebase_url": "https://housinite-default-rtdb.firebaseio.com",
+    "project_id": "housinite",
+    "storage_bucket": "housinite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99875945530:android:c8924494758c4de4eac903",
+        "android_client_info": {
+          "package_name": "com.example.housinite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99875945530-12b40v061b6mlds0d553ukt47dp0s04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWAViIW_mX0CFRlA9plwG6YZgB3sYLm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99875945530-12b40v061b6mlds0d553ukt47dp0s04v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

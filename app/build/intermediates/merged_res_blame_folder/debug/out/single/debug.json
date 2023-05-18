@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_modern.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\modern.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.housinite.app-merged_res-34:/layout_activity_houses.xml.flat",
+        "source": "com.example.housinite.app-main-36:/layout/activity_houses.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_notifications.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_apartment_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\apartment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_apartment.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\apartment.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_agent.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\agent.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_add_apartments.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_add_apartments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_home.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_add_houses.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_add_houses.xml"
+    },
+    {
+        "merged": "com.example.housinite.app-merged_res-34:/layout_activity_add_apartments.xml.flat",
+        "source": "com.example.housinite.app-main-36:/layout/activity_add_apartments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_agents.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_agents.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_apartments.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_apartments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_landlord.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\landlord.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.housinite.app-merged_res-34:/menu_menu.xml.flat",
+        "source": "com.example.housinite.app-main-36:/menu/menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_owners_login.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_owners_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_googleicon.png.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\googleicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_houses.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_houses.xml"
+    },
+    {
+        "merged": "com.example.housinite.app-merged_res-34:/layout_houses_layout.xml.flat",
+        "source": "com.example.housinite.app-main-36:/layout/houses_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_agents_sign_up.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_agents_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_agents_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\agents_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_agents_update.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_agents_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_owners.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_owners.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-merged_res-34:\\layout_activity_owners_sign_up.xml.flat",
+        "source": "C:\\Users\\ADMIN TX\\.gradle\\daemon\\8.0\\com.example.housinite.app-main-36:\\layout\\activity_owners_sign_up.xml"
+    }
+]
